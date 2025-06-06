@@ -9,8 +9,10 @@ import {
 import { FaTasks, FaTrashAlt, FaUsers } from "react-icons/fa";
 import { useSelector } from 'react-redux';
 import { useDispatch } from 'react-redux';
-import { useLocation } from 'react-router-dom';
+import { Link, useLocation } from 'react-router-dom';
 import { setOpenSidebar } from '../redux/slices/authSlice';
+import clsx from 'clsx';
+
 
 
 const linkData = [
@@ -63,6 +65,23 @@ const Sidebar = () => {
     const closeSidebar = () => {
         dispatch(setOpenSidebar(false));
     }
+
+    const NavLink = ({el}) => {
+      return (
+        <Link 
+        to={el.link}
+        onClick={closeSidebar}
+        className={clsx(
+          "w-full lg:w-3/4 flex gap-2 px-3 py-2 rounded-full items-center text-gray-800 text-base hover:bg-[#256ed2d] ",
+          path === el.link.split("/")[0] ? "bg-blue-700 text-white": ""
+        )}
+        >
+          {el.icon}
+          <span className='hover:text-[2564ed]'>{el.label}</span>
+        </Link>
+      )
+    }
+
   return (  
     <div className="w-full h-full flex flex-col gap-6 p-5">
       <h1 className="flex gap-1 text-center">
