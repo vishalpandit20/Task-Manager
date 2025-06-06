@@ -110,3 +110,11 @@ export default Login
 //   email: "demo@example.com",
 //   token: "dummy-jwt-token"
 // }));
+
+
+// {
+//   "id": "1",
+//   "name": "Demo User",
+//   "email": "demo@example.com",
+//   "token": "dummy-jwt-token"
+// }

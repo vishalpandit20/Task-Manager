@@ -48,7 +48,7 @@ const linkData = [
     },
     {
       label: "Trash",
-      link: "trashed",
+      link: "trash",
       icon: <FaTrashAlt />,
     },
   ];
