@@ -77,7 +77,7 @@ const Sidebar = () => {
         )}
         >
           {el.icon}
-          <span className='hover:text-[2564ed]'>{el.label}</span>
+          <span className='hover:text-[#2564ed]'>{el.label}</span>
         </Link>
       )
     }
@@ -97,6 +97,13 @@ const Sidebar = () => {
             <NavLink el={link} key={link.label}  />
           ))
         }
+      </div>
+
+      <div className=''>
+        <button className='w-full flex gap-2 p-2 items-center text-lg text-gray-800 '>
+          <MdSettings/>
+          <span>Settings</span>
+        </button>
       </div>
 
     </div>

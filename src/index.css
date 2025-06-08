@@ -79,6 +79,7 @@
   height: 100%;
   width: 100%;
   margin-bottom: 5px;
+
 }
 
 .dot {
@@ -86,7 +87,8 @@
   width: 12px;
   margin-right: 10px;
   border-radius: 10px;
-  background-color: #fff;
+  /* background-color: #fff; */
+  background-color: #2584f8;
   animation: pulse 1.5s infinite ease-in-out;
 }
 
