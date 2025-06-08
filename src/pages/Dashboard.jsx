@@ -1,3 +1,4 @@
+
 import React from "react";
 import {
   MdAdminPanelSettings,
@@ -5,7 +6,6 @@ import {
   MdKeyboardArrowUp,
   MdKeyboardDoubleArrowUp,
 } from "react-icons/md";
-//import { LuClipboardEdit } from "react-icons/lu";
 import { FaEdit } from "react-icons/fa";
 import { FaNewspaper, FaUsers } from "react-icons/fa";
 import { FaArrowsToDot } from "react-icons/fa6";
@@ -28,7 +28,7 @@ const TaskTable = ({ tasks }) => {
       <tr className='text-black text-left'>
         <th className='py-2'>Task Title</th>
         <th className='py-2'>Priority</th>
-        <th className='py-2 '>Team</th>
+        <th className='py-2'>Team</th>
         <th className='py-2 hidden md:block'>Created At</th>
       </tr>
     </thead>
@@ -70,7 +70,7 @@ const TaskTable = ({ tasks }) => {
           ))}
         </div>
       </td>
-      <td className='py-2 pl-4 hidden md:block'>
+      <td className='py-2 hidden md:block'>
         <span className='text-base text-gray-600'>
           {moment(task?.date).fromNow()}
         </span>
@@ -146,7 +146,6 @@ const UserTable = ({ users }) => {
     </div>
   );
 };
-
 const Dashboard = () => {
   const totals = summary.tasks;
 

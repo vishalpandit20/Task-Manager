@@ -14,7 +14,7 @@ export const summary = {
         team: [
           {
             _id: "65c202d4aa62f32ffd1303cc",
-            name: "Codewave Asante",
+            name: "vishal Asante",
             title: "Administrator",
             role: "Admin",
             email: "admin@gmail.com",
@@ -38,7 +38,7 @@ export const summary = {
         activities: [],
         subTasks: [
           {
-            title: "Task manager youtube tutorial",
+            title: "Task manager ",
             date: "2024-02-09T00:00:00.000Z",
             tag: "tutorial",
             _id: "65c5f153b5204a81bde866c8",
@@ -121,7 +121,7 @@ export const summary = {
         team: [
           {
             _id: "65c202d4aa62f32ffd1303cc",
-            name: "Codewave Asante",
+            name: "vishal Asante",
             title: "Administrator",
             role: "Admin",
             email: "admin@gmail.com",
@@ -192,7 +192,7 @@ export const summary = {
       },
       {
         _id: "65c45fb6af6ec0118be94052",
-        title: "Task Manager Youtube Video",
+        title: "Task Manager Project",
         date: "2024-02-11T00:00:00.000Z",
         priority: "medium",
         stage: "completed",
@@ -261,7 +261,7 @@ export const summary = {
           },
           {
             _id: "65c202d4aa62f32ffd1303cc",
-            name: "Codewave Asante",
+            name: "vishal Asante",
             title: "Administrator",
             role: "Admin",
             email: "admin@gmail.com",
@@ -306,7 +306,7 @@ export const summary = {
         team: [
           {
             _id: "65c202d4aa62f32ffd1303cc",
-            name: "Codewave Asante",
+            name: "vishal Asante",
             title: "Administrator",
             role: "Admin",
             email: "admin@gmail.com",
@@ -393,7 +393,7 @@ export const summary = {
         team: [
           {
             _id: "65c202d4aa62f32ffd1303cc",
-            name: "Codewave Asante",
+            name: "vishal Asante",
             title: "Administrator",
             role: "Admin",
             email: "admin@gmail.com",
@@ -480,7 +480,7 @@ export const summary = {
         team: [
           {
             _id: "65c202d4aa62f32ffd1303cc",
-            name: "Codewave Asante",
+            name: "vishal Asante",
             title: "Administrator",
             role: "Admin",
             email: "admin@gmail.com",
@@ -557,7 +557,7 @@ export const summary = {
       },
       {
         _id: "65c202d4aa62f32ffd1303cc",
-        name: "Codewave Asante",
+        name: "vishal Asante",
         title: "Administrator",
         role: "Admin",
         createdAt: "2024-02-06T09:58:44.794Z",
@@ -604,7 +604,7 @@ export const summary = {
       team: [
         {
           _id: "65c202d4aa62f32ffd1303cc",
-          name: "Codewave Asante",
+          name: "vishal Asante",
           title: "Administrator",
           email: "admin@gmail.com",
         },
@@ -625,9 +625,9 @@ export const summary = {
       activities: [],
       subTasks: [
         {
-          title: "Task manager youtube tutorial",
+          title: "Task manager Creation",
           date: "2024-02-09T00:00:00.000Z",
-          tag: "tutorial",
+          tag: "Creation",
           _id: "65c5f153b5204a81bde866c8",
         },
       ],
@@ -706,7 +706,7 @@ export const summary = {
       team: [
         {
           _id: "65c202d4aa62f32ffd1303cc",
-          name: "Codewave Asante",
+          name: "vishal Asante",
           title: "Administrator",
           email: "admin@gmail.com",
         },
@@ -774,7 +774,7 @@ export const summary = {
     },
     {
       _id: "65c45fb6af6ec0118be94052",
-      title: "Task Manager Youtube Video",
+      title: "Task Manager Project",
       date: "2024-02-11T00:00:00.000Z",
       priority: "medium",
       stage: "completed",
@@ -802,21 +802,21 @@ export const summary = {
           type: "started",
           activity: "Project completed!!",
           date: "2024-02-08T18:13:14.717Z",
-          by: { _id: "65c202d4aa62f32ffd1303cc", name: "Codewave" },
+          by: { _id: "65c202d4aa62f32ffd1303cc", name: "vishal" },
           _id: "65c51b998064dfd208b3f9",
         },
         {
           type: "commented",
           activity: "Project completed!!",
           date: "2024-02-08T18:13:14.717Z",
-          by: { _id: "65c202d4aa62f32ffd1303cc", name: "Codewave" },
+          by: { _id: "65c202d4aa62f32ffd1303cc", name: "vishal" },
           _id: "65c51b98064df97d208b3f9",
         },
         {
           type: "completed",
           activity: "Project completed!!",
           date: "2024-02-08T18:13:14.717Z",
-          by: { _id: "65c202d4aa62f32ffd1303cc", name: "Codewave" },
+          by: { _id: "65c202d4aa62f32ffd1303cc", name: "vishal" },
           _id: "65c51b998064df97d208b3f9",
         },
       ],
@@ -854,7 +854,7 @@ export const summary = {
         },
         {
           _id: "65c202d4aa62f32ffd1303cc",
-          name: "Codewave Asante",
+          name: "vishal Asante",
           title: "Administrator",
           email: "admin@gmail.com",
         },
@@ -897,7 +897,7 @@ export const summary = {
       team: [
         {
           _id: "65c202d4aa62f32ffd1303cc",
-          name: "Codewave Asante",
+          name: "vishal Asante",
           title: "Administrator",
           email: "admin@gmail.com",
         },
@@ -979,7 +979,7 @@ export const summary = {
       team: [
         {
           _id: "65c202d4aa62f32ffd1303cc",
-          name: "Codewave Asante",
+          name: "vishal Asante",
           title: "Administrator",
           email: "admin@gmail.com",
         },
@@ -1061,7 +1061,7 @@ export const summary = {
       team: [
         {
           _id: "65c202d4aa62f32ffd1303cc",
-          name: "Codewave Asante",
+          name: "vishal Asante",
           title: "Administrator",
           email: "admin@gmail.com",
         },
@@ -1102,7 +1102,7 @@ export const summary = {
   
   export const user = {
     _id: "662f32ffd1303cc",
-    name: "Codewave",
+    name: "vishal",
     title: "Administrator",
     role: "Admin",
     email: "admin@mts.com",
@@ -1133,7 +1133,7 @@ export const summary = {
     {
       _id: "2",
       type: "assigned",
-      activity: "task to Codewave Asante",
+      activity: "task to vishal Asante",
       date: new Date("2023-01-15").toISOString(),
       by: "Akwasi Asante",
     },
@@ -1149,14 +1149,14 @@ export const summary = {
     {
       _id: "5",
       type: "bug",
-      activity: "bug to Codewave Asante",
+      activity: "bug to vishal Asante",
       date: new Date("2023-01-15").toISOString(),
       by: "Akwasi Asante",
     },
     {
       _id: "4",
       type: "completed",
-      activity: "Codewave Asante has completed the task assigned",
+      activity: "vishal Asante has completed the task assigned",
       date: new Date("2023-01-15").toISOString(),
       by: "Akwasi Asante",
     },

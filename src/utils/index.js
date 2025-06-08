@@ -1,4 +1,3 @@
-
 export const formatDate = (date) => {
   // Get the month, day, and year
   const month = date.toLocaleString("en-US", { month: "short" });
